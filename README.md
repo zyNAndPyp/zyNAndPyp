@@ -6,12 +6,6 @@
 
 Programo ↓
 
-* Python      
-* JavaScript
-
-Aprendo ↓          
-
-* HTML   
-* CSS  
-
+* Python
+* 
 <hr>
